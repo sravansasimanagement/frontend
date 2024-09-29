@@ -1,4 +1,4 @@
-# rak-frontend-app
+# frontend
 
 This project is a frontend web application built with **React.js**. It utilizes modern tools and libraries to enhance development and code quality.
 
@@ -19,56 +19,74 @@ To get started with this project, ensure you have [Node.js](https://nodejs.org/)
 
 Clone the repository and install the required dependencies:
 
-git clone https://github.com/your-username/rak-frontend-app.git
+git clone [https://github.com/your-username/rak-frontend-app.git](https://github.com/sravansasi24/rak-frontend-app.git)
+
 cd rak-frontend-app
+
 npm install
 
-Running the App
+### Running the App
 To run the app in development mode, use:
 npm start
 The app will be available at http://localhost:3000.
 
-Building the App
+### Building the App
 To create a production-ready build of the app, run:
 npm run build
 The optimized build will be located in the build/ directory.
 
-Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
 npm start: Runs the app in development mode.
+
 npm run build: Builds the app for production.
-npm test: Launches the test runner in interactive watch mode.
-npm run eject: Removes the single build dependency and configures the app manually.
-Dependencies
+
+### Dependencies
 
 The project has the following core dependencies:
 
 React: A JavaScript library for building user interfaces.
+
 Redux Toolkit: Official toolset for efficient Redux development.
+
 Ant Design: A popular UI framework.
+
 Axios: A promise-based HTTP client for making API requests.
+
 TypeScript: Static type definitions for ensuring code quality.
+
 For the full list of dependencies, see the package.json file.
 
-Development
+### Development
 
 This app is set up to use modern JavaScript features along with TypeScript for strong typing. It also uses Redux for state management.
 
 For component development, ensure you follow modular component-based architecture.
 
-Folder Structure
-plaintext
-Copy code
+### Folder Structure
+
 src/
 ├── assets/       # assets
-├── components/   # Reusable UI components
-├── features/     # Application functionality
-├── models/       # models
-├── store/        # Redux store and slices
 
-Build and Deployment
+   ├── components/   # Reusable UI components
+
+   ├── features/     # Application functionality
+
+   ├── models/       # models
+
+   ├── store/        # Redux store and slices
+
+### Build and Deployment
 
 To build the project for production:
 npm run build
+
+### Screen Shot
+
+ ![image](https://github.com/user-attachments/assets/5d68f717-593f-488a-8468-6b92c8b0b48f)
+
+ ![image](https://github.com/user-attachments/assets/d572fc59-cc4a-44ea-aac9-476df7d09a16)
+
+
