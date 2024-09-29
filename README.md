@@ -43,6 +43,14 @@ npm start: Runs the app in development mode.
 
 npm run build: Builds the app for production.
 
+### Test Case
+
+Example of a test file name : filename.test.tsx
+
+Run command : npm run test filename.test.tsx
+
+Test coverage command : npm run test:coverage
+
 ### Dependencies
 
 The project has the following core dependencies:
@@ -83,10 +91,8 @@ src/
 To build the project for production:
 npm run build
 
-### Screen Shot
-
+### Screen Shot :
  ![image](https://github.com/user-attachments/assets/5d68f717-593f-488a-8468-6b92c8b0b48f)
-
  ![image](https://github.com/user-attachments/assets/d572fc59-cc4a-44ea-aac9-476df7d09a16)
 
 
