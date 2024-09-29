@@ -26,14 +26,12 @@ cd rak-frontend-app
 npm install
 
 ### Running the App
-To run the app in development mode, use:
-
-npm start
+To run the app in development mode, use: npm start
 
 The app will be available at http://localhost:3000.
 
 ### Building the App
-To create a production-ready build of the app, run:npm run build
+To create a production-ready build of the app, run: npm run build
 
 The optimized build will be located in the build/ directory.
 
