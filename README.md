@@ -92,7 +92,10 @@ To build the project for production:
 npm run build
 
 ### Screen Shot :
- ![image](https://github.com/user-attachments/assets/5d68f717-593f-488a-8468-6b92c8b0b48f)
- ![image](https://github.com/user-attachments/assets/d572fc59-cc4a-44ea-aac9-476df7d09a16)
+
+### Screen Shot:
+<img src="https://github.com/user-attachments/assets/5d68f717-593f-488a-8468-6b92c8b0b48f" alt="screenshot 1" width="500"/>
+<img src="https://github.com/user-attachments/assets/d572fc59-cc4a-44ea-aac9-476df7d09a16" alt="screenshot 2" width="500"/>
+
 
 
