@@ -7,7 +7,7 @@ function App() {
   const status = useSelector((state: any) => state.user.save.status);
   return (
     <>
-      <div className="container is-max-desktop">
+      <div className="container is-max-desktop" data-testid="appMainDiv">
       <div style={{ maxWidth: '400px', margin: 'auto', padding: '20px', backgroundColor: "#ffff"}}>
        {status === 'success' ? <Success/> :<SignUp /> }
        </div>
