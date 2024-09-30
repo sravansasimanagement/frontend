@@ -45,6 +45,12 @@ npm run build: Builds the app for production.
 
 ### Test Case
 
+We are using React Testing Library to write unit tests for this project
+
+To run the test cases, use the following command: npm test
+
+To run the test cases with coverage, use the following command : npm test -- --coverage
+
 Example of a test file name : filename.test.tsx
 
 Run command : npm run test filename.test.tsx
